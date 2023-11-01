@@ -1,0 +1,59 @@
+11/10/22
+-Learn and understand the concept of PLC programming with TwinCAT3 by using the resources given by supervisor.
+
+12/10/22
+-Presentatation about PLC programming for supervisor.
+-Complete pratical task given by supervisor for more understanding about PLC programming.
+
+13/10/22
+-Try to complete the task of creating a small program by using TwinCAT3 before 15/10/2022.
+
+14/10/22
+-Make progress on the task assigned on 13/10/22.
+-Follow the documentation of OPCUA for doing verification.
+
+15/10/22
+-Follow the documentation of OPCUA for doing verification.
+-Present the bakery machine program to my supervisor.
+
+17/10/22
+-Follow the documentation of OPCUA for verification.
+
+18/10/22
+-Continue follow the documentation of OPCUA.
+-Done the presentation about my program to my supervisor.
+
+19/10/22
+-Continue follow the documentation of OPCUA (Complete at one site first).
+-Practices on (struct, array, visualization) in TwinCAT.
+
+20/10/22
+-Implement OPC UA again in own device for double checking in the morning.
+-Reengineer my own program and implement visualization on it as requested by supervisor.
+
+21/10/22
+-Implement visualization into my bakery program.
+-If the implementation was done then schedule with Syafiq for the presentation.
+
+25/10/22
+-Ask my supervisor (Syafiq) about the next task to be done.
+
+26/10/22
+-Set up Git on others' devices and guide them to use it if needed.
+-Help mocha figure out the problem (if needed) of being unable to clone the project from Git.
+-Go thru Amkor code and understand it first before modifying it.
+
+27/10/22
+-Go thru Amkor Project and try to understand it. (Friday morning explain to Syafiq based on my understanding of the code and provide some opinion if there is any)
+
+28/10/22
+-Discuss with Syafiq about my understanding of the Amkor project code and give some opinions if theres any.
+-Either do Github documentation or Improve the Amkor project.
+
+29/10/22
+-Discuss with Syafiq about the improvement for Amkor Project.
+-Give some opinion base on my view about the Amkor Project.
+
+31/10/22
+-Do more research on the UML diagrams and create an example of a UML diagram based on the Amkor project and present it to Syafiq.
+-Practice more on TwinCAT3 by using the OOP approach. 

@@ -1,0 +1,83 @@
+1/11/2022
+-Fully list out all attributes/methods/etc of the Amkor project in Excel.
+-Rearrange the Table and link the relation between them.
+
+2/11/2022
+-Complete the UML Diagram for the Amkor Project then show and discuss with Syafiq for further improvement.
+-Give some recommendations regarding the existing ineffectiveness of the Amkor Project coding while discussing with Syafiq.
+
+3/11/2022
+-Discuss with Syafiq regarding the functionality of each object listed in the UML diagram for description
+-Continue research on passing an object into an object (function block).
+
+4/11/2022
+-Continue building the UML diagram for the library part.
+-Show the code to Syafiq if free that i did yesterday of doing some verification implementing OOP in TwinCAT3.
+-Implement OOP in my project.
+
+5//11/2022
+-Continue building the UML diagram.
+-Ask Syafiq for requesting a function block to me for testing.
+
+7/11/2022
+-Continue building the UML diagram.
+-Implement OOP in my project.
+
+8/11/2022
+-Study and make progress on implementing OOP in the inverter.
+-Continue building the UML diagram.
+
+9/11/2022
+-Tidy up the UML diagram and look for improvement.
+-Continue to implement OOP in the Inverter program.
+
+10/11/2022
+-Complete the inverter program.
+
+11/11/2022
+-Morning 9-12pm presentation about UML Diagram and OOP in Inverter.
+-Do Git documentation.
+
+14/11/2022
+-Continue on the documentation of Git.
+-Discuss with syafiq to confirm the requirement of Git documentation.
+
+15/11/2022
+-Complete Git Documentation (GitHub & SourceTree).
+-Enhance/Improvement of Inverter(Code, Class Diagram & Activity Diagram).
+
+16/11/2022
+-Enhance the Inverter, thinking of better ways/practices for implementing OOP.
+
+17/11/2022
+-Continue modify the Inverter code to become better version.
+-Modify the diagram if theres any changes based on the Inverter code.
+
+21/11/2022
+-Complete the UML for Inverter program by today.
+-Discussion for this week's task with Syafiq thru Whatsapp.
+
+22/11/2022
+-Report to Mr.Syafiq thru WhatsApp about yesterday's progress.
+-Start work on the CT12, solve the fault error.
+
+23/11/2022
+-Continue work on solving the CT12 page fault error.
+
+24/11/2022
+-MC
+
+25/11/2022
+-MC
+
+28/11/2022
+-Continue on solving the CT12 page fault error.
+-Discussion about the 'Game' requested by Kenny Tan.
+
+29/11/2022
+-Continue on solving Page fault.
+-start progress on the 'Game'.
+
+30/11/2022
+-Study and implement TF1810 for visualization.
+-Continue on the Game project.

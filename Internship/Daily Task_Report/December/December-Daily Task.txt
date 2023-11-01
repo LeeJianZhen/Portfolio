@@ -1,0 +1,83 @@
+1/12/2022
+-Continue develop MJ Farm.
+-Try implement TF1810 on other device.
+
+2/12/2022
+-Continue develop MJ Farm using TwinCAT3.
+-Assist Mr.Syafiq if there are any requests.
+
+3/12/2022
+-Assist Mr.Syafiq if there are any requests.
+-Assist Kenny for the EtherServo task.
+-Continue develop MJ Farm using TwinCAT3.
+
+5/12/2022
+-Test WebVisu (TF1810) on project given by Mr.Syafiq.
+-Figure out IO Mapping for EtherServo.
+-Continue develop MJ Farm using TwinCAT3.
+
+6/12/2022
+-Focus on developing MJ Farm using TwinCAT3 Object-Oriented approach.
+-Help Humble/Kenny with the PLC side.
+
+7/12/2022
+-Continue develop MJ Farm. (Left arm movement and location)
+
+8/12/2022
+-Arm movement & unit transfer (MJ Farm)
+-Look for improvement for the MJ Farm
+-Reconstruct for the sourcecode if have extra time
+
+9/12/2022
+-Attend Humble's presentation
+-Reconstruct the MJ Farm
+-Experiment on coding Linked List
+
+13/12/2022
+- Research on the security (Code encryption with certificate)
+- Provide Mocha with the MJ Farm code for mapping after lunch
+
+14/12/2022
+- Troubleshoot the errors in MJ Farm where the value of a variable is unable to pass out but able to pass in.
+- Presentation for lecturer visitation at Alpla Room (10.30am - 12.45pm) for all Utar Kampar student
+- Continue research on the security
+
+15/12/2022
+- Attend a presentation about company profile sharing.
+- Complete the MJ Farm and send it to Mocha before 6pm today.
+
+16/12/2022
+- Do verification test and fix bugs for the MJ Farm.
+
+20/12/2022
+- Continue on the MJ Farm
+
+21/12/2022
+- Finalize the MJ Farm and pass it to Mocha for mapping
+- Start doing some documentation if there's time left
+
+22/12/2022
+- Complete the Inverter
+- Work on MJ Farm documentation
+
+23/12/2022
+- Continue on the Inverter
+- Do documentation of MJ Farm after done the Inverter
+
+27/12/2022
+- Complete the Inverter by today
+- Do documentation on both MJ Farm and Inverter
+
+28/12/2022
+- Prepare documentation and presentation for the OOP
+- Rewrite the inverter code
+
+29/12/2022
+- Prepare documentation and presentation for the OOP
+
+30/12/2022
+- Presentation about OOP and TwinCAT3
+- Refine the GIT documentation
+
+31/12/2022
+- Refine the GIT documentation
